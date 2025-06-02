@@ -4,7 +4,7 @@
 
 Tema Elegido: Virtualización
 
-## ✨ Estudiante s 
+## ✨ Estudiantes 
 - **Nombre:** Luciano Andrelo
 - **Nombre:** Facundo Arrieta
 - **Comisión:** M2025-24  
