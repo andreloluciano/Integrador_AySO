@@ -38,8 +38,10 @@ Documento teórico completo del trabajo, que incluye conceptos, diferencias, pru
 ## 📁 capturas/
 Evidencias gráficas del uso de VirtualBox, Docker y el entorno Ubuntu
 
-📺 Video Explicativo 
+## 📺 Video Explicativo 
 Video donde se explica el desarrollo, las pruebas realizadas y una demostración final de la actividad
+
+- `https://www.youtube.com/watch?v=PKKTRCltgbc&ab_channel=AndreloLucianoAldo`
 
 
 ---
