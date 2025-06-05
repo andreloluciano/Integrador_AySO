@@ -2,7 +2,7 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*
 
-Tema Elegido: Virtualización
+## Tema Elegido: 💻 Virtualización
 
 ## ✨ Estudiantes 
 - **Nombre:** Luciano Andrelo
