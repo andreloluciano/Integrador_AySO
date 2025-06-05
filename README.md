@@ -31,9 +31,9 @@ Documento teórico completo del trabajo, que incluye conceptos, diferencias, pru
 
 ## 📁 python/ Contiene tres scripts desarrollados en Python:
 
-notas.py: un script desarrollado y ejecutado dentro de una maquina virtual Ubuntu
-servidor.py: una aplicación web creada con Flask que muestra estadísticas de Lionel Messi en formato HTML.
-cliente.py: un cliente HTTP que intenta conectarse al servidor Flask para verificar su disponibilidad.
+-notas.py: un script desarrollado y ejecutado dentro de una maquina virtual Ubuntu
+-servidor.py: una aplicación web creada con Flask que muestra estadísticas de Lionel Messi en formato HTML.
+-cliente.py: un cliente HTTP que intenta conectarse al servidor Flask para verificar su disponibilidad.
 
 ## 📁 capturas/
 Evidencias gráficas del uso de VirtualBox, Docker y el entorno Ubuntu
