@@ -41,7 +41,7 @@ Evidencias gráficas del uso de VirtualBox, Docker y el entorno Ubuntu
 ## 📺 Video Explicativo 
 Video donde se explica el desarrollo, las pruebas realizadas y una demostración final de la actividad
 
-### [![Trabajo Integrador AySO - Facundo Arrieta, Luciano Andrelo](https://img.youtube.com/vi/PKKTRCltgbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=PKKTRCltgbc)
+### [[![Trabajo Integrador AySO - Facundo Arrieta, Luciano Andrelo](https://img.youtube.com/vi/PKKTRCltgbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=PKKTRCltgbc)](https://www.youtube.com/watch?v=PKKTRCltgbc&ab_channel=AndreloLucianoAldo)
 
 
 ---
