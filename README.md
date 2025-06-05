@@ -30,7 +30,7 @@ A través de la teoría, la configuración práctica y la creación de scripts e
 Documento teórico completo del trabajo, que incluye conceptos, diferencias, pruebas y reflexiones finales.
 
 📁 python/
-Contiene el archivo notas.py, un script en Python desarrollado y ejecutado dentro de una máquina virtual Ubuntu.
+Contiene el archivo notas.py, un script en Python desarrollado y ejecutado dentro de una máquina virtual Ubuntu, los script del servidor y el cliente creados para el sitio web.
 
 📁 capturas/
 Evidencias gráficas del uso de VirtualBox, Docker y el entorno Ubuntu.
