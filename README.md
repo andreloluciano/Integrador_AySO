@@ -26,7 +26,7 @@ A través de la teoría, la configuración práctica y la creación de scripts e
 
 ## 📂 Contenido del Repositorio
 
-## 📄 Trabajo-Práctico-Integrador-Ayso.pdf
+# 📄 Trabajo-Práctico-Integrador-Ayso.pdf
 Documento teórico completo del trabajo, que incluye conceptos, diferencias, pruebas y reflexiones finales
 
 ## 📁 python/ Contiene tres scripts desarrollados en Python:
